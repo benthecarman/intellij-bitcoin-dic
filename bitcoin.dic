@@ -1,4 +1,5 @@
 bitcoin
+bitcoins
 satoshi
 satoshis
 sat
@@ -63,6 +64,7 @@ locktime
 stfu
 timelock
 nlocktime
+nversion
 nsequence
 txin
 txins
@@ -77,4 +79,12 @@ midstate
 sha
 shasum
 ecash
+outpoint
+outpoints
+vtxo
+vtxos
+bip
+bolt
+blip
+slip
 
