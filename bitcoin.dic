@@ -22,6 +22,12 @@ p2tr
 p2pk
 p2wpkh
 p2sh
+wsh
+pkh
+tr
+pk
+wpkh
+sh
 onchain
 txid
 txids
@@ -87,4 +93,7 @@ bip
 bolt
 blip
 slip
+nostr
+nwc
+xonly
 
