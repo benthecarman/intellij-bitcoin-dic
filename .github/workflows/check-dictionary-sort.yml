@@ -1,0 +1,17 @@
+name: Check Dictionary Sort
+
+on:
+  push:
+    branches: [ master, main ]
+  pull_request:
+    branches: [ master, main ]
+
+jobs:
+  check-sort:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Check if bitcoin.dic is sorted alphabetically
+      run: sort -c bitcoin.dic
