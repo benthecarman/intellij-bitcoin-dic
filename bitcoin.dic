@@ -1,4 +1,3 @@
-
 antpool
 anyprevout
 apo
@@ -6,6 +5,7 @@ ark
 arkade
 arks
 assumeutxo
+batcher
 bbqr
 bech
 bech32
@@ -98,6 +98,7 @@ lnurls
 lnurlw
 locktime
 mainnet
+mempool
 midstate
 millisat
 millisatoshi
@@ -143,6 +144,10 @@ payjoin
 payjoins
 pk
 pkh
+pkscript
+pkscripts
+presigned
+presigning
 privkey
 privkeys
 psbt
@@ -188,6 +193,8 @@ spks
 spv
 statechain
 stfu
+sweepbatcher
+sweepless
 tapleaf
 tapleafs
 tapleaves
@@ -215,6 +222,7 @@ vbyte
 vbytes
 vout
 vouts
+vpackets
 vsize
 vtxo
 vtxos
