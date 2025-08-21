@@ -104,6 +104,7 @@ millisat
 millisatoshi
 millisatoshis
 millisats
+monero
 msat
 msats
 msrv
@@ -116,6 +117,7 @@ naddr
 naddrs
 nlocktime
 nonces
+non-custodial
 noncustodial
 nostr
 npriv
@@ -189,6 +191,8 @@ siphash
 slip
 softfork
 softforks
+sphics
+sphinx
 spk
 spks
 spv
