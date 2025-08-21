@@ -84,6 +84,7 @@ lightningd
 lightningds
 lightspark
 lnaddr
+lnaddress
 lnbc
 lnbcrt
 lnd
@@ -115,6 +116,7 @@ mutinynet
 naddr
 naddrs
 nlocktime
+nonce
 nonces
 noncustodial
 nostr
@@ -156,6 +158,9 @@ psbts
 pubkey
 rawtr
 rbf
+reorg
+reorg'd
+reorged
 ripemd
 rollup
 rollups
@@ -202,6 +207,7 @@ tapleaves
 taproot
 tapscript
 tapsigner
+testnet
 timelock
 timelocks
 tluv
@@ -246,6 +252,8 @@ xpub
 xpubs
 ypub
 ypubs
+zap
+zaps
 zkp
 zkps
 zpub
