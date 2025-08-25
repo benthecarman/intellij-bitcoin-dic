@@ -14,4 +14,4 @@ jobs:
     - uses: actions/checkout@v4
     
     - name: Check if bitcoin.dic is sorted alphabetically
-      run: sort -c bitcoin.dic
+      run: LC_ALL=C sort -c bitcoin.dic
