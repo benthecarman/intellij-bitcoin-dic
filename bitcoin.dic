@@ -10,6 +10,8 @@ bbqr
 bech
 bech32
 bech32m
+benthecarman
+benthecarman's
 bip
 bitbox
 bitcoin
@@ -25,8 +27,10 @@ btc
 btcd
 btcds
 cashu
+cashubtc
 cashus
 chainalysis
+chans
 chatham
 checkmultisig
 checksig
@@ -55,10 +59,13 @@ drivechain
 drivechains
 ecash
 ecdsa
+electrs
 electrum
 eltoo
 erlay
 esplora
+externalip
+externalips
 fedi
 fedimint
 fedimints
@@ -77,11 +84,14 @@ internalkey
 iroh
 joinmarket
 jsonrpc
+keysend
+keysends
 kyc
 ledger
 libsecp
 lightningd
 lightningds
+lightninglabs
 lightspark
 lnaddr
 lnaddress
@@ -89,6 +99,8 @@ lnbc
 lnbcrt
 lnd
 lnd's
+lndk
+lndks
 lnds
 lnhance
 lntb
@@ -99,12 +111,14 @@ lnurls
 lnurlw
 locktime
 mainnet
+maxchansize
 mempool
 midstate
 millisat
 millisatoshi
 millisatoshis
 millisats
+minchansize
 monero
 msat
 msats
@@ -116,6 +130,8 @@ musigs
 mutinynet
 naddr
 naddrs
+nbit
+nbits
 nlocktime
 non-custodial
 nonce
@@ -166,6 +182,10 @@ reorged
 ripemd
 rollup
 rollups
+rpchost
+rpcpass
+rpcpassword
+rpcuser
 sat
 satoshi
 satoshis
@@ -188,6 +208,7 @@ sig
 sighash
 signature
 signet
+signetchallenge
 sigop
 sigops
 simnet
@@ -214,6 +235,7 @@ tapsigner
 testnet
 timelock
 timelocks
+tlsextradomain
 tluv
 tor
 tr
@@ -225,6 +247,7 @@ txin
 txins
 txout
 txouts
+uacomment
 uasf
 utreexo
 utxo
@@ -260,5 +283,7 @@ zap
 zaps
 zkp
 zkps
+zmqpubrawblock
+zmqpubrawtx
 zpub
 zpubs
