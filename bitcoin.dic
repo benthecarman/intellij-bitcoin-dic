@@ -7,13 +7,16 @@ arks
 assumeutxo
 batcher
 bbqr
+bbqrs
 bech
 bech32
 bech32m
 benthecarman
 benthecarman's
 bip
+bips
 bitbox
+bitboxes
 bitcoin
 bitcoind
 bitcoinds
@@ -32,6 +35,10 @@ cashu
 cashubtc
 cashus
 chainalysis
+chainmonitor
+chainmonitors
+channelmanager
+channelmanagers
 chans
 chatham
 checkmultisig
@@ -88,6 +95,8 @@ joinmarket
 jsonrpc
 keysend
 keysends
+keyshare
+keyshares
 kyc
 ledger
 libsecp
@@ -176,6 +185,10 @@ privkeys
 psbt
 psbts
 pubkey
+pushbyte
+pushbytes
+pushnum
+pushnums
 rawtr
 rbf
 reorg
