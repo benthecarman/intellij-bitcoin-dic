@@ -76,12 +76,16 @@ OP_VERIFY
 OP_VERNOTIF
 OP_WITHIN
 OP_XOR
+addr
+addrs
 antpool
 anyprevout
 apo
 ark
 arkade
 arks
+asp
+asps
 assumeutxo
 batcher
 bbqr
@@ -258,6 +262,7 @@ pkscript
 pkscripts
 presigned
 presigning
+prevout
 privkey
 privkeys
 psbt
@@ -269,9 +274,11 @@ pushnum
 pushnums
 rawtr
 rbf
+rebroadcasted
 reorg
 reorg'd
 reorged
+rhash
 ripemd
 rollup
 rollups
@@ -343,6 +350,7 @@ txouts
 uacomment
 uasf
 uniffi
+unsub
 utreexo
 utxo
 utxos
