@@ -263,6 +263,7 @@ pkscripts
 presigned
 presigning
 prevout
+priv
 privkey
 privkeys
 psbt
