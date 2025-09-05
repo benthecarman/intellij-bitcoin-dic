@@ -78,6 +78,7 @@ OP_WITHIN
 OP_XOR
 addr
 addrs
+amountless
 antpool
 anyprevout
 apo
