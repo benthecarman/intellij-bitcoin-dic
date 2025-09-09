@@ -108,6 +108,8 @@ bitdevs
 bitkey
 bitvm
 blip
+blockhash
+blockhashes
 bolt
 breez
 breez's
@@ -184,6 +186,7 @@ keysends
 keyshare
 keyshares
 kyc
+ldk's
 ledger
 libsecp
 lightningd
@@ -207,6 +210,8 @@ lnurlp
 lnurls
 lnurlw
 locktime
+lsp
+lsps
 mainnet
 maxchansize
 mempool
@@ -355,6 +360,7 @@ txouts
 uacomment
 uasf
 uniffi
+unnannounced
 unsub
 utreexo
 utxo
