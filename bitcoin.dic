@@ -157,6 +157,8 @@ drivechains
 ecash
 ecdsa
 electrs
+electrsd
+electrsds
 electrum
 eltoo
 erlay
