@@ -91,6 +91,7 @@ assumeutxo
 batcher
 bbqr
 bbqrs
+bc1pfeessrawgf
 bech
 bech32
 bech32m
@@ -267,6 +268,7 @@ p2wpkh
 p2wsh
 payjoin
 payjoins
+pfeessrawgf
 pk
 pkh
 pkscript
