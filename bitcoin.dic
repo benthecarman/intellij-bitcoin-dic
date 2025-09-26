@@ -284,7 +284,9 @@ pushbyte
 pushbytes
 pushnum
 pushnums
+rawblock
 rawtr
+rawtx
 rbf
 rebroadcasted
 reorg
