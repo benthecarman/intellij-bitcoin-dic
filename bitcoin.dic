@@ -302,6 +302,7 @@ rpchost
 rpcpass
 rpcpassword
 rpcuser
+rpcworkqueue
 sat
 satoshi
 satoshis
@@ -365,6 +366,7 @@ txhash
 txid
 txids
 txin
+txindex
 txins
 txout
 txouts
@@ -407,7 +409,10 @@ zap
 zaps
 zkp
 zkps
+zmqpubhashblock
+zmqpubhashtx
 zmqpubrawblock
 zmqpubrawtx
+zmqpubsequence
 zpub
 zpubs
