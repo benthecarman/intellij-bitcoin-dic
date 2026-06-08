@@ -97,6 +97,7 @@ assumeutxo
 bLIP
 backupwallet
 bantime
+barkd
 batcher
 bbqr
 bbqrs
