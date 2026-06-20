@@ -81,6 +81,10 @@ abortrescan
 addnode
 addr
 addrs
+alt
+altcoin
+altcoins
+alts
 amountless
 analyzepsbt
 antpool
@@ -451,6 +455,10 @@ setwalletflag
 sh
 sha
 shasum
+shitcoin
+shitcoiner
+shitcoiners
+shitcoins
 sidechain
 sig
 sighash
